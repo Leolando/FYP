@@ -25,11 +25,11 @@ Purposed two different types of Unsupervised Domain Adaptation in adversarial ma
 
 
 
-![image-20220427173456789](readme-image\image-20220427173456789.png)
+![image-20220427173456789](https://github.com/Leolando/FYP/blob/main/readme-image/image-20220427173456789.png)
 
 ### First type of Unsupervised Domain Adaptation model
 
-![image-20220427173803408](readme-image\image-20220427173803408.png)
+![image-20220427173803408](https://github.com/Leolando/FYP/blob/main/readme-image/image-20220427173803408.png)
 
 
 
@@ -37,11 +37,11 @@ Purposed two different types of Unsupervised Domain Adaptation in adversarial ma
 
 ### Confusion matrix of the first proposed model
 
-![image-20220427174004039](readme-image\image-20220427174004039.png)
+![image-20220427174004039](https://github.com/Leolando/FYP/blob/main/readme-image/image-20220427174004039.png)
 
 
 
 ### Loss and accuracy of the second proposed model
 
-![image-20220427174035953](readme-image\image-20220427174035953.png)
+![image-20220427174035953](https://github.com/Leolando/FYP/blob/main/readme-image/image-20220427174035953.png)
 
